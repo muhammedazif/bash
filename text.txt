@@ -1,0 +1,17 @@
+total 60
+-rw-r--r--. 1 root root  427 Aug 20 09:48 calculator.sh
+-rw-r--r--. 1 root root  413 Aug 19 09:33 cleanup.sh
+-rw-r--r--. 1 root root  161 Aug 17 10:56 condition.sh
+-rw-r--r--. 1 root root  233 Aug 20 09:39 day.sh
+-rw-r--r--. 1 root root  157 Aug 17 10:45 directory.sh
+-rw-r--r--. 1 root root  344 Aug 18 11:18 factorial.sh
+-rw-r--r--. 1 root root  282 Aug 22 18:49 file.sh
+-rw-r--r--. 1 root root  247 Aug 17 11:08 filename.sh
+-rw-r--r--. 1 root root  324 Aug 14 12:25 lean.sh
+-rw-r--r--. 1 root root  842 Aug 22 16:41 log.sh
+-rw-r--r--. 1 root root  765 Aug 19 09:59 menu.sh
+-rw-r--r--. 1 root root 1003 Aug 22 16:50 polished_log.sh
+-rw-r--r--. 1 root root  171 Aug 17 10:40 program.sh
+-rw-r--r--. 1 root root  283 Aug 17 11:19 string.sh
+-rw-r--r--. 1 root root    0 Aug 22 18:49 text.txt
+-rw-r--r--. 1 root root  280 Aug 19 09:21 text_processing.sh
