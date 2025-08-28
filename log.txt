@@ -1,0 +1,2 @@
+It doesn't not exist
+ERROR: expected script directory missing: /script
